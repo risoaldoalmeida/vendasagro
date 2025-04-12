@@ -14,6 +14,7 @@ Este projeto tem como objetivo analisar e monitorar o desempenho financeiro e op
   <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </div>
 
+
 ##Fontes de Dados
 
 - Imersão de Power BI - Comunidade Data Driven
@@ -31,8 +32,9 @@ Este projeto tem como objetivo analisar e monitorar o desempenho financeiro e op
 
 *Veja abaixo algumas visualizações do relatório:*
 
-![Dashboard Geral](imagens/AgroFruts1.jpg)
-![Dashboard Geral](imagens/AgroFruts2.jpg)
+![AgroFruits1](https://github.com/user-attachments/assets/b380e11b-6b3b-40e3-a05a-e7027e82c068)
+![AgroFruits2](https://github.com/user-attachments/assets/e6241894-a8d5-44af-b09d-afb067f1f72c)
+
 
 ##Aprendizados
 
