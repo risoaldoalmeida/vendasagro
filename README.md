@@ -1,11 +1,13 @@
 ## Business Case Imersão Power BI
 
 
-## Objetivo
+  ## Objetivo
 
 Este projeto tem como objetivo analisar e monitorar o desempenho financeiro e operacional da empresa fictícia AgroFruits, identificando tendências sazonais e otimizar a logística de transporte.
 
-##Ferramentas
+
+  ##Ferramentas
+
 
 <div style="display:inline_block"><br/>
   <img align="center" alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />   
@@ -15,11 +17,11 @@ Este projeto tem como objetivo analisar e monitorar o desempenho financeiro e op
 </div>
 
 
-##Fontes de Dados
+  ##Fontes de Dados
 
 - Imersão de Power BI - Comunidade Data Driven
 
-##Principais Análises
+    ##Principais Análises
 
 - Receita Bruta
 - Volume de Produção
@@ -28,7 +30,7 @@ Este projeto tem como objetivo analisar e monitorar o desempenho financeiro e op
 - Volume por Mês (Sazonalidade de Cultivo)
 - Representatividade por Tipo de Transporte
 
-##Dashboards
+    ##Dashboards
 
 *Veja abaixo algumas visualizações do relatório:*
 
@@ -36,7 +38,7 @@ Este projeto tem como objetivo analisar e monitorar o desempenho financeiro e op
 ![AgroFruits2](https://github.com/user-attachments/assets/e6241894-a8d5-44af-b09d-afb067f1f72c)
 
 
-##Aprendizados
+  ##Aprendizados
 
 - Prática em ETL com Power Query
 - Criação de KPIs com DAX
