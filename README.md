@@ -31,8 +31,8 @@ Este projeto tem como objetivo analisar e monitorar o desempenho financeiro e op
 
 *Veja abaixo algumas visualizações do relatório:*
 
-![Dashboard Geral](C:\Users\usuario\Documents\2024\Data Driven\Cases Imersão\AgroFruits\AgroFruts2.jpg)
-
+![Dashboard Geral](imagens/AgroFruts1.jpg)
+![Dashboard Geral](imagens/AgroFruts2.jpg)
 
 ##Aprendizados
 
